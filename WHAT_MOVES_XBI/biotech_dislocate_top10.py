@@ -12,7 +12,8 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load the tickers from the CSV file
-df_tickers = pd.read_csv("biotech_tickers.csv")
+#df_tickers = pd.read_csv("biotech_tickers.csv")
+df_tickers = pd.read_csv("/mount/src/adar1_private/WHAT_MOVES_XBI/biotech_tickers.csv")
 unique_tickers_list = sorted(df_tickers.Ticker.unique().tolist())
 biotech_tickers = unique_tickers_list if 'XBI' in unique_tickers_list else unique_tickers_list + ['XBI']
 biotech_tickers = unique_tickers_list if 'NBI' in unique_tickers_list else unique_tickers_list + ['NBI']
