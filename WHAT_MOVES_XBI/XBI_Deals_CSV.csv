@@ -1,0 +1,208 @@
+﻿Date Announced,Acquiror,AcquirorTicker,Target,Primary Asset,Primary Indication,Disease Category,Lead Stage (At Time of Deal),"Deal Value 
+($B)","LTM sales
+($M)","Peak Sales** 
+Est ($M)",Deal value/ LTM sales,Deal value/ Peak sales,Takeout Forward P/E,90 Day Premium,Cash / Stock Deal Structure,Termination Fees,Financial Advisor (Target),Financial Advisor (Acquirer),"Target on Conference Call
+",PR on Target's Website
+Jul-08,Roche ,RHHBY,Genentech,Avastin,Colorectal Cancer,Oncology,Marketed,44.2913,13400,15000,3.305320896,2.952753333,N/A,-,All Cash,-,Goldman,Greenhill,No,N/A
+Oct-08,Eli Lilly,LLY,ImClone Systems,Erbitux,Colorectal Cancer,Oncology,Marketed,5.97814,628.06,1500,9.518421807,3.985426667,53.9,-,All Cash,$150M,JPM ,UBS,No,N/A
+Jan-09,Pfizer,PFE,Wyeth,Various,Various,Various,Marketed,64.19786,22833.91,23000,2.811514103,2.791211304,13.8,0.29,"$44B Cash
+$23B Stock",$6400M,"Morgan Stanley, Evercore","BofA, Barclays, Citi, JPM, Goldman",Yes,N/A
+Mar-09,Merck,MRK,Schering-Plough,Various,Various,Various,Marketed,45.7044,18502,18500,2.470241055,2.470508108,13.9,0.85,"$17B Cash
+$29B Stock",$3750M,"Morgan Stanley, Goldman",JPM,Yes,N/A
+Mar-10,Astellas,ALPMY,OSI Pharma,Tarceva,Non-small cell lung cancer,Oncology,Marketed,3.3555,428.15,750,7.837206586,4.474,28.2,0.79,All Cash,$125M,"Lazard, Peter Solomon, Centerview, Merrill Lynch",Citi,No,N/A
+Jun-10,Celgene,BMS,Abraxis BioScience,Abraxane,Metastatic breast cancer,Oncology,Marketed,3.388,447.46,750,7.571626514,4.517333333,N/A,1.18,"$2.3B Cash
+$0.6B Stock",$145M,"Lazard, Goldman, Merrill Lynch",Morgan Stanley,Yes,N/A
+Aug-10,Sanofi-Aventis,SNY,Genzyme,Cerezyme,Gaucher Disease,Orphan disease,Marketed,19.3279,4292.06,4000,4.503175631,4.831975,29.8,0.38,All Cash,$575M,"Credit Suisse, Goldman","Morgan Stanley, BNP Paribas, JPM, Evercore, Societe Generale SA",No Call Held,N/A
+May-11,Teva,TEVA,Cephalon,Various,Various,Various,Marketed,6.269,2800,-,2.238928571,-,N/A,0.25,All Cash,$275M,,,Yes,N/A
+Nov-11,Gilead,GILD,Pharmasset,Sovaldi,Hepatitis C,Infectious disease,Phase II,11,-,4000,-,2.75,N/A,1.18,All Cash,$332M,Morgan Stanley,"Barclays, Merrill Lynch",No,N/A
+Jan-12,Bristol-Myers Squibb,BMY,Inhibitex,INX0189,Hepatitis C,Infectious disease,Phase II,2.5,-,4000,-,0.625,N/A,6.62,All Cash,$76M,,,No,N/A
+Jan-12,Amgen,AMGN,Micromet,Blinatumomab,ALL,Cancer,Phase II,1.2,-,300,-,4,N/A,-,All Cash,$40M,Goldman,Moelis,No Call Held,N/A
+Apr-12,GlaxoSmithKline,GSK,Human Genome Sciences,Benlysta,Lupus,Autoimmune,Marketed,3.1865,151.53,1000,21.02883917,3.1865,N/A,0.91,All Cash,$115M,"Goldman, Credit Suisse","Lazard, UBS, Morgan Stanley",No Call Held,N/A
+Aug-13,Amgen,AMGN,Onyx,Kyprolis,Multiple myeloma,Cancer,Marketed,9.934,512,2000,19.40234375,4.967,N/A,0.78,All Cash,303M,Centerview,Merrill Lynch,No,Yes
+Nov-13,Shire,TAK,ViroPharma,Cinryze,Hereditary angioedema,Orphan disease,Marketed,3.875,400,1000,9.6875,3.875,73.4,0.66,All Cash,$327M,Goldman,"Morgan Stanley, Lazard",Yes,N/A
+Jan-14,Forest,AGN,Aptalis,Canasa,Ulcerative colitis,Gastrointestinal,Marketed,2.9,688,-,4.215116279,-,33.4,-,All Cash,-,"Goldman, JPM, Evercore","Morgan Stanley, Evercore",No,Yes
+Feb-14,Mallinckrodt,MCKPF,Cadence,Ofirmev,Mild to moderate pain,Pain management,Marketed,1.3,-,-,-,-,101.1,1.22,All Cash,$20M,"Lazard, Centerview",Deutsche Bank,No,N/A
+Feb-14,Actavis,AGN,Forest,"Namenda
+Linzess","Alzheimer's
+IBS-C","Neurologic
+Gastrointestinal",Marketed,25,-,-,-,-,29.9,1.09,"$7B Cash
+$17B Stock",$2050M,"Morgan Stanley, Goldman, JPM","Greenhill, Merrill Lynch",Yes,Yes
+Apr-14,Mallinckrodt,MCKPF,Questcor,H.P. Acthar Gel,Acute MS exacerbations,Autoimmune,Marketed,5.6,760,1500,7.368421053,3.733333333,12.2,0.53,"$1.8B Cash
+$3.4B Stock",$326M,Barclays,"Centerview, Merrill Lynch",Yes,N/A
+Jun-14,Merck,MRK,Idenix,IDX21437,Hepatitis C,Infectious disease,Phase I/II,3.5,-,1500,-,2.333333333,N/A,2.4,All Cash,$116M,Centerview,Credit Suisse,No Call Held,N/A
+Aug-14,Roche,RHHBY,InterMune,Pirfenidone,"Idiopathic pulmonary 
+Fibrosis",Orphan disease,"NDA review (US)
+Marketed (EU)",8.25,-,1600,-,5.15625,N/A,1.61,All Cash,$266M,"Goldman, Centerview",Citi,No,N/A
+Oct-14,Endo,NDOI,Auxilium,Xiaflex,"Dupuytren's contracture,
+Peyronie's disease",Urology,Marketed,2.3,400,800,5.75,2.875,33.9,0.2,"$914M Cash
+$950M Stock",$220M,"Deutsche Bank, Morgan Stanley, Houlihan Lokey","Citi, Lazard",Yes,Yes
+Dec-14,Otsuka,OTSKY,Avanir,Nuedexta,Pseudobulbar affect,Neurologic,Marketed,3.5,110,500,31.81818182,7,N/A,2.26,All Cash,$90M,Centerview,Goldman,No Call Held,Yes
+Dec-14,Merck,MRK,Cubist,Cubicin,"S. aureus bacteremia,
+cSSSI",Infectious disease,Marketed,7.939,1370,2000,5.794890511,3.9695,47.3,0.67,All Cash,$250M,"Morgan Stanley, Goldman ","JPM, Deutsche Bank ",No,No
+Jan-15,Shire,TAK,NPS Pharmaceuticals,"Gattex
+Natpara","Short bowel syndrome
+Hypoparathyroidism",Orphan ,"Marketed
+BLA review",5.2,100,900,52,5.777777778,63.1,0.53,All Cash,$156M,"Goldman, Leerink","Citi, Lazard",Yes,No
+Mar-15,AbbVie,ABBV,Pharmacyclics,Imbruvica,"CLL, MCL, WM",Cancer,Marketed,21,730,4000,28.76712329,5.25,170.2,1.08,"$11.7B Cash
+$8.4B Stock",$680M,"Centerview, JPM ",Morgan Stanley,No,No
+Mar-15,Horizon Pharma,HZNP,Hyperion Therapeutics,"Ravicti
+Buphenyl",Urea cycle disorder,Metabolic,Marketed,1.1,110,250,10,4.4,56.1,1.2,All Cash,$110M,Centerview,"Jefferies, Citi, Cowen ",No,N/A
+Mar-15,Teva,TEVA,Auspex,SD-809,"Chorea associated 
+w/ Huntington's disease",Neurologic,NDA ready,3.2,-,700,-,4.571428571,N/A,3.06,All Cash,$104M,JPM,Goldman,Yes,Yes
+May-15,Alexion,ALXN,Synageva,Kanuma,LAL Deficiency,Orphan,"BLA review (US)
+MAA review (EU)",8.4,-,1500,-,5.6,N/A,1.51,"$4.3B Cash
+$4.5B Stock",$325M,Goldman,"Lazard, JPM",No,No
+Jul-15,Celgene,BMS,Receptos,Ozanimod,"Multiple sclerosis, 
+Ulcerative colitis","Neurologic
+Gastrointestinal",Phase III,7.2,-,5000,-,1.44,N/A,0.64,All Cash,$630M,Centerview,"JPM, Citi",No,No
+Nov-15,Shire,TAK,Dyax,DX-2930,Hereditary angioedema,Orphan disease,Phase III,5.9,-,1000,-,5.9,N/A,0.56,All Cash,$460M,Centerview,"Morgan Stanley, Deutsche Bank, Evercore",Yes,Yes
+Nov-15,AstraZeneca,AZN,ZS Pharma,ZS-9,Hyperkalaemia,"Cardiovascular 
+Metabolic","BLA review (US)
+MAA review (EU)",2.7,-,750,-,3.6,N/A,1.16,All Cash,$86M,Goldman,-,No,No
+Dec-15,AstraZeneca,AZN,Acerta,acalabrutinib (ACP-106),B-cell blood cancers,Oncology,Phase III,4,N/A,3000,N/A,1.333333333,N/A,-,$2.5B Cash,-,"Jefferies, Goldman",-,Yes,Yes
+Jan-16,Shire,TAK,Baxalta,Various,Various,Rare diseases,Marketed,31.5176,5984,6000,5.26697861,5.252933333,25,0.38,"$12.3B Cash
+$18.9B Stock",$738M,"Goldman, Citi","Deutsche Bank, Barclays, Morgan Stanley, Evercore",Yes,No
+Apr-16,AbbVie,ABBV,Stemcentrx,Rova-T,Small cell lung cancer,Oncology,Phase II (Pivotal),9.7938,N/A,3000,N/A,3.2646,N/A,-,"$2.0B Cash
+$3.8B Stock",-,Morgan Stanley,Merrill Lynch,No,No
+May-16,Pfizer,PFE,Anacor,Crisaborole,Mild-to-moderate atopic dermatitis,Dermatology,NDA review (US),5.2,-,1500,-,3.466666667,N/A,0.55,All Cash,$181M,Citi,"Guggenheim, Centerview",No,Yes
+May-16,Arbor Pharmaceuticals,ABR,Xenoport,Horizant,Moderate-to-severe restless legs syndrome,Neurology,Marketed,0.467,46.5,125,10.04301075,3.736,N/A,0.54,All Cash,$16.5M,Centerview,-,No,Yes
+May-16,Jazz ,JAZZ,Celator ,Vyxeos,High-risk acute myeloid leukemia,Cancer,Phase III,1.5,-,250,-,6,N/A,23.1,All Cash,41.5,RBC Capital Markets,MTS,No,Yes
+Jul-16,Galenica,GALE,Relypsa,Veltassa,Hyperkalemia,Nephrology,Marketed,1.53,-,425,-,3.6,N/A,1.23,All Cash,49,"Centerview, Merrill Lynch",Credit Suisse,No,Yes
+Aug-16,Pfizer,PFE,Medivation,Xtandi,Prostate cancer,Cancer,Marketed,14,2200,4000,6.363636364,3.5,138.4,0.87,All Cash,510,"Guggenheim, Centerview","JPM, Evercore",No,Yes
+Nov-16,Allergan,AGN,Tobira,Cenicriviroc,NASH,Metabolic,Phase II,1.7,-,2000,-,0.85,N/A,9.22,"$966M Cash
+$729M CVR",$20M,,,No,Yes
+Jan-17,Takeda,TAK,Ariad,"Iclusig, Brigatinib","leukemia, lung cancer",Oncology,Marketed,5.2,a ,1500,-,3.466666667,N/A,1.3,All cash,$169.0MM,-,-,No,Yes
+Jan-17,J&J ,JNJ,Actelion,Uptravi,Pulmonary arterial hypertention,Cardiovascular ,Marketed,30,2000,4000,15,7.5,35.12132822,0.79,All Cash,$500.0MM,-,-,No,Yes
+Jul-17,Mitsubishi Tanabe,MTZPY,Neuroderm,ND0612,Parkinson's Disease,Neurology,Phase III,1.1,-,750,-,1.466666667,N/A,0.4,All Cash,-,Centerview,-,No,Yes
+Aug-17,Gilead,GILD,Kite Pharma,Axicabtagene Ciloleucel,R/R DLBCL,Oncology,BLA/ MAA review ,11.9,-,2000,-,5.95,N/A,1.22,All Cash,356,"Centerview, Jefferies, Cowen","Merrill Lynch, Lazard",No,Yes
+Dec-17,Roche,RHHBY,Ignyta,Entrectinib (RXDX-101),"NSCLC (ROS1),
+NTRK Solid Tumors",Oncology,Phase II (Pivotal),1.7,-,400,-,4.25,N/A,1.75,All Cash,-,Citi,"Merrill Lynch, JPM",No,Yes
+Dec-17,Mallinckrodt,MNKKQ,Sucampo,Amitiza and VTS-270,CIC and NPC-rare disease,"Gastrointestinal/
+Neurology",Marketed,1.2,456,610,2.631578947,1.967213115,N/A,0.79,All Cash,44,Jefferies,Deutsche Bank,No Call Held,Yes
+Jan-18,Sanofi,SNY,Bioverativ,Eloctate & Alprolix,Hemophilia A &B,Hematology,Marketed,11.6,1095,2000,10.59360731,5.8,25,0.84,All Cash,326,-,-,No,Yes
+Jan-18,Celgene,BMY,Juno,JCAR017,R/R DLBCL,Oncology,Phase II (Pivotal),9,-,1500,-,6,N/A,1.06,All Cash,600,-,-,No,Yes
+Jan-18,Sanofi,SNY,Ablynx,caplacizumab ,thrombotic thrombocytopenic purpura (aTTP),Hematology,Phase III,4.88,-,561,-,8.698752228,N/A,2.75,All Cash,85,-,-,No,Yes
+Apr-18,Novartis,NVS,Avexis,AVXS-101,SMA (Gene Therapy),Neurology,Phase III,8.7,-,1500,-,5.8,N/A,1.31,All Cash,284,-,"Goldman, Centerview",No,Yes
+May-18,Eli Lilly,LLY,"Armo 
+BioSciences","AM0010 
+(PEG-IL-10)",Pancreatic Ductal Adenocarcionma ,Oncology,Phase III,1.6,-,350,-,4.571428571,N/A,0.67,All Cash,64,"Centerview, Jefferies",Credit Suisse,No Call Held,No
+Oct-18,Novartis ,NVS,Endocyte,Lu-PSMA-617,mCRPC,Oncology,Phase III,2.1,-,500,-,4.2,N/A,0.63,All Cash,74,"Centerview, Jefferies",Credit Suisse,No,Yes
+Dec-18,GSK,GSK,Tesaro,Zejula (niraparib),Ovarian cancer,Oncology,Marketed,5.1,220,1000,23.18181818,5.1,N/A,1.1,All Cash,162.5,"Citi, Centerview","PJT Partners, Merrill Lynch",No,Yes
+Jan-19,Bristol-Myers Squibb,BMY,Celgene,Revlimid,Multiple myeloma,Hematology,Marketed,74,9342,12000,7.921216014,6.166666667,10.00292969,0.173713762,"$35B+ Cash
+$37B+ Stock",2200,"Citi, JPM","Morgan Stanley, Evercore, Dyal",Yes,Yes
+Jan-19,Eli Lilly,LLY,Loxo Oncology,Vitrakvi (larotrectinib),NTRK-gene fusion solid tumors,Oncology,Marketed,8,-,1000,-,8,N/A,1.035513209,All Cash,265,Goldman,Deutsche Bank,No,Yes
+Feb-19,Roche,RHHBY,Spark Therapeutics,Luxturna,RPE65 Mutation,Rare diseases,Marketed,4.3,27,500,159.2592593,8.6,N/A,2.73,All Cash,144,"Cowen, Centerview",Citi,No,Yes
+Feb-19,Ipsen,IPSEY,Clementia,Palovarotene,Fibrodysplasia Ossificans Progressiva (FOP),Rare diseases,Phase III,1.31,-,300,-,4.366666667,N/A,0.78,"$945M Cash
+$227M CVR",35,Morgan Stanley,Centerview,No,Yes
+Mar-19,Biogen ,BIIB,Nightstar Therapeutics,NSR-REP1,Choroideremia ,Opthalmology/Rare diseases,Phase III,0.877,-,200,-,4.385,N/A,0.78,All Cash,400,Morgan Stanley,Centerview,No,Yes
+May-19,Merck,MRK,Peloton Therapeutics,HIF-2a,RCC,Oncology,Phase II,1.05,-,1000,-,1.05,N/A,N/A,All Cash,,Centerview,Credit Suisse,,Yes
+Jun-19,Pfizer,PFE,Array BioPharma,"Braftovi/
+Mektovi",Metastatic Melanoma,Oncology,Marketed,11.4,100,1500,114,7.6,N/A,0.9,All Cash,400,Morgan Stanley,Centerview,No,Yes
+Jun-19,AbbVie,ABBV,Allergan,Botox,Migraine,Neurology,Marketed,61.748,3668,16000,16.83424209,3.85925,11.34580567,0.453,"$39B+ Cash
+$22B+ Stock",1423.69,"Goldman, JPM, Evercore",Morgan Stanley,No,Yes
+Aug-19,Amgen,AMGN,Otezla,Otezla,Psoriasis,Inflammation,Marketed,13.4,1762,2750,7.604994325,4.872727273,N/A,N/A,All Cash,-,Dyal,Goldman,No,Yes
+Sep-19,Vertex,VRTX,Semma therapeutics,Ttem cell based human islet program,Type 1 Diabetes,Metabolic,Preclinical ,0.95,-,1000,-,0.95,N/A,N/A,All Cash,-,,-,,Yes
+Sep-19,Lundbeck,HLBBF,Alder BioPharmaceuticals,Eptinezumab,Migraine,Neurology,Reg Review,1.95,-,700,-,2.785714286,N/A,0.56,$1.75B Cash + $200M CVR,-,"MTS, PJT Partners",Centerview,Yes,Yes
+Sep-19,Swedish Orphan Biovitrum,BIOVF,Dova Pharmaceuticals,DOPTELET,Thrombocytopenia,Rare diseases,Marketed,0.9,15.1,475,59.60264901,1.894736842,N/A,0.43,$0.87B Cash + $47M CVR,-,Jefferies ,Evercore,No,Yes
+Oct-19,UCB,UCBJY,Ra Pharmaceuticals,Zilucoplan,Generalizsed myasthenia gravis (gMG),Rare/ neuromuscular,Phase III,2.1,-,1000,-,2.1,N/A,0.45,All Cash,-,Centerview,"BAML, Lazard",No,Yes
+Oct-19,Alexion,ALXN,Achillion,Danicopan,PNH,Rare diseases,Phase II,0.7,-,300,-,2.333333333,N/A,1.55,All Cash,-,Centerview,-,No,Yes
+Nov-19,Novartis,NVS,Medicines Company,Inclisiran,LDL Lowering,Cardiovascular ,Phase III,9.7,-,1500,-,6.466666667,N/A,0.95,All Cash,-,"Goldman, JPM",-,,Yes
+Dec-19,Astellas,ALPMY,Audentes,Gene therapy for MTM1 gene (AT132),X-linked Myotubular Myopathy,Rare/ neuromuscular,Phase I/II,3,-,1000,-,3,N/A,1,All Cash,-,Centerview,Morgan Stanley,,Yes
+Mar-20,Gilead,GILD,Forty Seven,Magrolimab,"MDS, AML",Oncology (IO),Phase II,4.9,-,1000,-,4.9,N/A,6.24,All Cash,-,Centerview,"Citi, JPM",No,Yes
+May-20,Menarini Group,PRIVATE,Stemline Therapeutics,Elzonris (CD123),BPDCN,Oncology (IO),Approved,0.677,50.1,200,13.51297405,3.385,N/A,-,$623M Cash + $54M CVR,-,"PJT Partners, BofA",Goldman,,Yes
+May-20,Alexion,ALXN,Portola,Andexxa,Uncontrolled bleeding ,Hematology,Approved,1.44,116.6,500,12.34991424,2.88,N/A,-0.3,All Cash,-,Centerview,RBC,,Yes
+Aug-20,Sanofi,SNY,Principia Biopharma,Rilzabrutinib,Pemphigus,Immune-mediated diseases,Phase III,3.68,-,1500,-,2.453333333,N/A,0.54,All Cash,-,"Centerview, BofA",Evercore,,Yes
+Aug-20,J&J ,JNJ,Momenta Pharmaceuticals ,Nipocalimab ,"Warm Autoimmune
+Hemolytic Anemia (wAIHA)",Immune-mediated diseases,Phase III,6.1,-,1500,-,4.066666667,N/A,0.7,All Cash,-,"Goldman, Centerview",-,,Yes
+Aug-20,Nestle ,NSRGY,Aimmune Therapeutics ,Palforzia,Peanut Allergy,Food allergies,Approved,2.6,-,1000,-,2.6,N/A,1.15,All Cash,-,"JPM, Lazard",-,,Yes
+Sep-20,Gilead,GILD,Immunomedics,Trodelvy ,TNBC,Oncology (ADC),Approved,21,-,3500,-,6,N/A,1.8,All Cash,-,"Centerview, BofA","Lazard, Morgan Stanley",,No
+Oct-20,BMY,BMY,MyoKardia,Mavacamten,Obstructive HCM,Cardiovascular ,Phase III,13.1,-,3000,-,4.366666667,N/A,1.4,All Cash,-,"Centerview, Guggenheim",Dyal,,Yes
+Oct-20,Bayer,BAYRY,Asklepios BioPharmaceutical,AAV2/8-LSPhGAA,Pompe disease,Rare diseases/ Gene Therapy,Phase I/II,2,-,500,-,4,N/A,-,All Cash,-,JPM,Credit Suisse,,Yes
+Nov-20,Merck,MRK,VelosBio ,VLS-101 (ROR1),"Solid tumors (BC, NSCLC)",Oncology (ADC),Phase II,2.75,-,NA,-,NA,N/A,-,All Cash,-,Centerview,JPM,,Yes
+Dec-20,Gilead,GILD,MYR Pharmaceuticals,Hepcludex,Chronic Hepatitis Delta Virus (HDV),Virology,Approved/ regulatory,1.39,-,500,-,2.78,N/A,-,All Cash,-,UBS Europe SE,Goldman,,No
+Dec-20,AstraZeneca,AZN,Alexion,Soliris ,Paroxysmal nocturnal haemoglobinuria (PNH),Immune-mediated rare diseases,Approved,39.4,-,8000,-,4.925,N/A,0.65,$13.5B cash + $25.9B stock,0.03,BofA,"Evercore, Centerview",,No
+Dec-20,Lilly,LLY,Prevail Therapeutics,PR001,Parkinson's Disease,Neurology/ gene therapy,Phase I/II,1.04,-,NA,-,NA,N/A,1.35,$880M Cash + $160M CVR,-,Centerview,Lazard,,Yes
+Dec-20,Servier,PRIVATE,Agios,Tibsovo,R/R IDH1 AML,Oncology,Approved,2,-,500,-,4,N/A,,All Cash,,,,,
+Jan-21,Sanofi,SNY,Kymab,KY1005,Atopic dermatitis,Inflammation/ Immune-mediated diseases,Phase II,1.1,-,500,-,NA,N/A,1.74,All Cash,-,JPM,-,,Yes
+Feb-21,Horizon Therapeutics,HZNP,Viela Bio,Uplizna,NMOSD,Rare diseases,Approved,2.67,-,850,-,3.141176471,N/A,0.53,All Cash,,Goldman,Morgan Stanley,,No
+Feb-21,Jazz ,JAZZ,GW Pharma,Epidiolex,Seizures associated w/ LGS and TSC,Epilepsy/ Cannabinoids ,Approved,7.2,-,2000,-,3.6,N/A,-,Cash + Stock,-,"Goldman, Centerview","Evercore, Guggenheim",,Yes
+Feb-21,Merck,MRK,Pandion Therapeutics,PT101 (IL-2 mutein),Ulcerative colitis,Autoimmune,Phase I,1.85,-,NA,-,NA,N/A,1.34,All Cash,-,Centerview,Credit Suisse,,Yes
+Mar-21,Amgen,AMGN,FivePrime,Bemarituzumab,1L Gastric Cancer,Oncology,Phase III,1.9,-,600,-,3.166666667,N/A,0.78,All Cash,-,Lazard,Goldman,,Yes
+Jun-21,MorphoSys,MPSYF,Constellation,Pelabresib (BETi),Myelofibrosis,Oncology,Phase III,1.7,-,750,-,2.266666667,N/A,0.7,All Cash,-,,,,
+Jul-21,Amgen,AMGN,Teneobio,TNB-585 (BiTE),mCRPC,Oncology,Phase I,0.9,-,NA,-,NA,N/A,-,All Cash,-,,Goldman,,
+Aug-21,Sanofi,SNY,Translate Bio,MRT5005,Cystic Fibrosis,Pulmonary / Infectious Diseases,Phase II,3.2,-,NA,-,NA,N/A,0.56,All Cash,-,Evercore,Morgan Stanley,,Yes
+Aug-21,Pfizer,PFE,Trillium,Peripheral T Cell Lymphoma,AML,Oncology,Phase I/II,2.22,-,NA,-,NA,N/A,1.18,All Cash,-,,,,
+Sep-21,Sanofi,SNY,Kadmon,Rezurock (belumosudil),cGVHD,Immune-mediated diseases ,Approved,1.9,-,NA,-,NA,NA,0.79,All Cash,-,"Cantor Fizgerald, Moelis",,No,No
+Sep-21,Merck,MRK,Acceleron,Reblozyl (luspatercept),Anemia in certain rare blood cancers,Hematology/ Pulmonary,Approved,11.5,101.1,3000,113.7487636,3.833333333,N/A,0.34,All Cash,-,"JPM, Centerview","Goldman, Credit Suisse",No,Yes
+Nov-21,Novo Nordisk,NVO,Dicerna Pharmaceuticals,Nedosiran,Primary hyperoxaluria,Cardiometabolic,Phase III,3.3,-,NA,-,NA,N/A,0.8,All Cash,-,Evercore,"Centerview, Leerink",No,Yes
+Dec-21,Sanofi,SNY,Amunix Pharmaceuticals,AMX-818 (HER2-XPAT),Solid tumors ,Immuno-oncology,Preclinical ,1,-,NA,-,NA,N/A,-,All Cash,-,Centerview,,No,Yes
+Dec-21,Novartis,NVS,Gyroscope Therapeutics,GT005,Geographic atrophy/AMD,Opthalmology,Phase II,0.8,-,NA,-,NA,N/A,-,All cash,-,,,No,Yes
+Dec-21,Pfizer,PFE,Arena Pharmaceuticals,Etrasimod,"Ulcerative Colitis, Crohn's Disease",Inflammation,Phase III,6.7,-,2500,-,2.68,N/A,1,All Cash,-,"Guggenheim, Evercore","BofA, Centerview",No,Yes
+Jan-22,UCB,UCBJY,Zogenix,Fintepla,"Dravet syndrome, Lennox-Gastaut syndrome",Rare diseases/neurology,Approved,1.9,75,450,25.33333333,4.222222222,N/A,0.72,All Cash,,,,,
+Feb-22,Collegium,COLL,BioDelivery Sciences ,Belbuca (buprenorphine),Pain,Neurology/Pain,Approved,0.604,-,NA,-,NA,N/A,,All Cash,,,,,
+Mar-22,AbbVie,ABBV,Syndesi Terapeutics,SDI-118,Alzheimer's Disease,Neurology,Phase Ib,1,-,-,-,NA,N/A,-,All Cash,-,-,Lazard,No,Yes
+Apr-22,Pfizer,PFE,ReViral,Sisunatovir,RSV,Infectious disease,Phase II,0.525,-,1500,-,0.35,N/A,,All Cash,,,,,
+Apr-22,GSK,GSK,Sierra Oncology,Momelotinib,Myelofibrosis,Oncology,Phase III,1.9,-,500,-,3.8,N/A,0.39,All Cash,-,-,-,No,Yes
+May-22,Pfizer,PFE,Biohaven Pharmaceuticals,Nurtec (Rimegepant),Migraine,Neurology,Approved,11.6,462,2500,25.10822511,4.64,N/A,0.786,All Cash,,JPM,Centerview,Yes,Yes
+Jun-22,BMY,BMY,Turning Point Therapeutics,Repotrectinib (ROS1/NTRK Inhibitor),NSCLC,Oncology,Phase I/II,4.1,-,-,-,NA,N/A,1.225,All Cash,-,Goldman,Dyal,No,Yes
+Jun-22,Gurnet Point & Patient Square,PRIVATE,Radius Health,Tymlos (abaloparatide),Osteoporosis,Internal Medicine,Approved,0.89,230,450,3.869565217,1.977777778,N/A,,All Cash,-,JPM,Goldman,No,Yes
+Jun-22,Ipsen,IPSEY,Epizyme,Tazverik (tazemetostat),Follicular lymphoma,Hematology,Approved,0.50376,38.49,500,13.08807482,1.00752,N/A,1.44,All Cash,-,Barclays,"Jefferies, MTS",,Yes
+Aug-22,Amgen,AMGN,ChemoCentryx,Tavneos (avacopan),ANCA-associated vasculitis,Autoimmune,Approved,4,-,1000,-,4,N/A,1.16,All Cash,-,Goldman,PJT Partners,No,Yes
+Aug-22,Pfizer,PFE,Global Blood Therapeutics,Oxbryta (voxelotor),Sickle cell disease,Hematology,Approved,5.4,195,1500,27.69230769,3.6,N/A,1.02,All Cash,-,"JPM, Centerview","Morgan Stanley, Goldman",No,Yes
+Aug-22,Alcon,ALC,Aerie Pharmaceuticals,"Rocklatan (netarsudil and latanoprost ophthalmic solution), Rhopressa (netarsudil ophthalmic solution)",Glaucoma,Ophthalmology,Approved,0.77,135,700,5.703703704,1.1,N/A,0.37,All Cash,-,JPM,Goldman,No,Yes
+Sep-22,Novo Nordisk,NVO,Forma Therapeutics,Etavopivat,Sickle cell disease,Hematology,Phase II/III,1.1,-,-,-,NA,N/A,0.92,All Cash,-,Moelis,Centerview,No,Yes
+Oct-22,Eli Lilly,LLY,Akouos, AK-OTOF (gene therapy),Hearing loss,Otology,Preclinical ,0.61,-,-,-,NA,N/A,1.21,All Cash,-,Centerview,-,No,Yes
+Oct-22,LG Chem,51910,AVEO Oncology,FOTIVDA (tivozanib),Renal cell carcinoma,Oncology,Approved,0.566,79,400,7.164556962,1.415,N/A,,All Cash,-,Moelis,BofA,No,Yes
+Nov-22,Merck,MRK,Imago Biosciences,"bomedemstat 
+(IMG-7289)",Essential thrombocythemia,Bone Marrow,Phase II,1.0399,-,-,-,NA,N/A,1.07,All Cash,-,Centerview,Morgan Stanley,No,Yes
+Dec-22,Amgen,AMGN,Horizon Therapeutics,"Tepezza, Krystexxa","Thyroid eye disease (TED), Gout","Autoimmune, Inflammatory",Approved,28.3,2734,5000,10.35113387,5.66,9.629125553,0.48,All Cash,$974M,"Morgan Stanley, JPM","PJT Partners, Citi",No,Yes
+Dec-22,Takeda,TAK,Nimbus' TYK2,NDI-034858,Psoriasis,Inflammation,Phase II,4,-,-,-,-,-,,Mostly Cash,-,JPM,Evercore,No,Yes
+Jan-23,Chiesi,CRTX,Amryt Pharma,Metreleptin ,Leptin Deficiency,Rare diseases,Approved,1.25,139.4,300,8.967001435,4.166666667,N/A,1.07,All Cash,-,Moelis,Centerview,No,Yes
+Jan-23,Ipsen,IPSEY,Albireo Pharma,Bylvay,PFIC,Rare diseases,Approved,0.952,24,400,39.66666667,2.38,N/A,1.04,All Cash,-,Centerview,Goldman,No,Yes
+Jan-23,AstraZeneca,AZN,Cincor Pharma,Baxdrostat (CIN-107),Hypertension,Cardiometabolic,Phase II,1.3,-,-,-,NA,N/A,1.21,All Cash,-,Centerview,-,No,Yes
+Jan-23,Sun Pharma,SUNPHARMA,Concert Pharmaceuticals,Deuruxolitinib (CTP-543),Alopecia Areata,Autoimmune,Phase III,0.576,-,550,-,1.047272727,N/A,0.33,All Cash,-,MTS,Moelis,No,Yes
+Mar-23,Pfizer,PFE,Seattle Genetics,"Adcetris, Padcev, etc
+(various ADCs)","Solid Tumors, Hematologic Malignancies",Oncology,Approved,43,1962.4,10000,21.91194456,4.3,N/A,0.4,All Cash,"$2,224M","Centerview, MTS",Guggenheim,Yes,Yes
+Mar-23,Sanofi,SNY,Provention Bio,Tzield,Type 1 Diabetes,Metabolic,Approved,2.9,12.9,1775.1,224.8062016,1.633710777,N/A,2.73,All Cash,$158M,"BofA, Centerview",PJT Partners,No Call Held,Yes
+Apr-23,Merck ,MRK,Prometheus Biosciences ,PRA023 ,Ulcerative colitis ,"Autoimmune, Inflammatory",Phase II,10.8,-,4500,-,2.4,N/A ,,All Cash ,-,"Centerview, Goldman",Morgan Stanley,No,Yes
+Apr-23,GSK,GSK,Bellus Health,Camlipixant,Refractory chronic cough,Respiratory,Phase III,2,-,1200,-,1.666666667,N/A ,,All Cash ,,Centerview,PJT Partners,No,Yes
+Apr-23,Astellas,ALPMY,Iveric Bio,Avacincaptad pegol,Geographic atrophy/AMD,Ophthalmology,Phase III,5.9,-,1500,-,3.933333333,N/A ,,All Cash ,,"BofA, Centerview",JPM,No,Yes
+May-23,Swedish Orphan Biovitrum,BIOVF,CTI BioPharma,VONJO (pacritinib),Myelofibrosis ,Hematology,Approved,1.7,70,1000,24.28571429,1.7,N/A ,,All Cash ,,"Centerview, MTS",-,No,Yes
+May-23,Ironwood Pharmaceuticals,IRWD,VectivBio Holding,Apraglutide,Short bowel syndrome with intestinal failure ,Gastrointestinal,Phase III,1,-,1000,-,1,N/A ,0.8,All Cash ,,"Centerview, BofA","Citi, JPM, RBC Capital Markets,  Wells Fargo",No,Yes
+Jun-23,Novartis,NVS,Chinook Therapeutics,Atrasentan,IgA nephropathy ,Nephrology,Phase III,3.2,-,1000,-,3.2,N/A ,0.83,All Cash ,,"Centerview, MTS",-,No,Yes
+Jun-23,Eli Lilly,LLY,DiCE Therapeutics,DC-806,Psoriasis ,"Autoimmune, Inflammatory",Phase I,2.4,-,1000,-,2.4,N/A ,,All Cash ,,Centerview,-,No,Yes
+Jul-23,Biogen ,BIIB,Reata Pharmaceuticals,Skyclarys,Friedreich's Ataxia,Neuromuscular,Approved,7.3,-,1500,-,4.866666667,N/A ,,All Cash,,Goldman,Lazard,No,Yes
+Aug-23,Revolution Medicines,RVMD,EQRx,Sugemalimab,NSCLC,Oncology,Phase III,1,-,-,-,N/A,N/A ,,All Stock,,Goldman,Guggenheim,No,Yes
+Sep-23,Alfasigma,PRIVATE,Intercept,Ocaliva,PBC,Rare diseases,Approved,0.794,306.5,350,2.590538336,2.268571429,N/A ,0.82,All Cash,,"Barclays, Centerview",PJT Partners,No,Yes
+Oct-23,Eli Lilly,LLY,Point Biopharma,PNT2002,Prostate cancer,Oncology,Phase III,1.4,-,1150,-,NA,N/A ,,All Cash,,Centerview,Goldman,No,Yes
+Oct-23,Bristol-Myers Squibb,BMY,Mirati Therapeutics,Krazati,NSCLC,Oncology,Approved,5.8,19.7,1400,294.4162437,4.142857143,N/A,0.52,All Cash,,Centerview,"Evercore, Morgan Stanley",No,Yes
+Oct-23,Roche,RHHBY,Telavant Holdings,RVT-3101,Inflammatory bowel disease,"Autoimmune, Inflammatory",Phase II,7.1,-,4500,-,1.577777778,N/A,,All Cash,,-,Citi,Yes,Yes
+Nov-23,Abbvie,ABBV,ImmunoGen,Elahere,Platinum-resistant ovarian cancer,Oncology,Approved,10.1,212,2000,47.64150943,5.05,N/A,,All Cash,,"Goldman, Lazard","JPM, Morgan Stanley",No,Yes
+Dec-23,Roche,RHHBY,Carmot Therapeutics,CT-388,Obesity,Obesity ,Phase I/II ,2.7,-,2000,-,1.35,N/A,,All Cash,,"Centerview, JPM",-,No,Yes
+Dec-23,Abbvie,ABBV,Cerevel ,Emracalidine ,Schizophrenia ,Neuropsychiatric ,Phase IIb,8.7,-,1500,-,5.8,N/A,,All Cash,,Centerview,Morgan Stanley ,No ,Yes 
+Dec-23,AstraZeneca ,AZN,Icosavax,IVX-A12,"RSV, hMPV",Infectious Diseases,Phase III,0.8,-,1000,-,0.8,N/A,,All Cash,,Centerview,-,No ,Yes
+Dec-23,Bristol-Myers Squibb,BMY,Karuna,KarXT,Schizophrenia ,Neurology,Filing,12.7,-,3800,-,3.342105263,N/A,,All Cash,,Goldman,Citi,No,Yes
+Dec-23,AstraZeneca,AZN,Gracell,GC012F,Multiple myeloma,Oncology,Phase I/II,0.7659,-,-,-,N/A,N/A,,All Cash,,Centerview,-,No,Yes
+Dec-23,Bristol-Myers Squibb,BMY,RayzeBio,RYZ101,GEP-NETs,Oncology,Phase III,3.6,-,1000,-,3.6,N/A,,All Cash,,Centerview,BofA,No,Yes
+Jan-24,Johnson & Johnson,JNJ,Ambrx Biopharma,ARX517,Prostate cancer,Oncology,Phase I/II,2,-,-,-,-,N/A,,All Cash,,"Centerview, Cantor Fitzgerald",-,,Yes
+Jan-24,Merck,MRK,Harpoon Therapeutics,HPN328,SCLC,Oncology,Phase I/II,0.68,-,500,-,1.36,N/A,,All Cash,,Centerview,Evercore,,Yes
+Jan-24,GSK,GSK,Aiolos Bio,AIO-001,Asthma,Pulmonary Diseases,Phase I,1,-,-,-,-,N/A,,All Cash,,-,-,,Yes
+Jan-24,Sanofi,SNY,Inhibrx,INBRX-101,AATD,Pulmonary Diseases,Phase III,1.7,,1000,,1.7,N/A,,All Cash,,Centerview,Lazard,,Yes
+Feb-24,Novartis,NVS,MorphoSys,Pelabresib,Myelofibrosis,Oncology,Phase III,2.9,,1000,,2.9,N/A,,All Cash,,Centerview,,,Yes
+Feb-24,Gilead,GILD,CymaBay,Seladelpar,Primary biliary cholangitis,Liver Diseases,Phase III,4.3,,600,,7.166666667,N/A,,All Cash,$151.6M,"Centerview, Lazard","BofA, Guggenheim",,Yes
+Mar-24,AstraZeneca,AZN,Amolyt Pharma,eneboparatide ,Chronic Hypoparathyroidism,Rare Diseases,Phase III,0.8,,2000,,0.4,N/A,,All Cash,,"Centerview, Goldman",-,,Yes
+Mar-24,AstraZeneca,AZN,Fusion Pharmaceuticals,FPI-2265,mCRPC,Oncology,Phase II,2,,3000,,0.666666667,N/A,,All Cash,,Centerview,-,,Yes
+Apr-24,Genmab,GMAB,ProfoundBio,Rina-S,Ovarian cancer,Oncology,Phase II,1.8,,2000,,0.9,N/A,,All Cash,,"BofA, Morgan Stanley",Goldman,,Yes
+Apr-24,Vertex,VRTX,Alpine Immune Sciences,povetacicept,IgA nephropathy ,Nephrology,Phase III,4.9,-,1000,,4.9,N/A,,All Cash,,Centerview,Lazard,,Yes
+Apr-24,Incyte,INCY,Escient Pharmaceuticals,EP262,"CIndU, CSU, AD",Autoimmune,Phase II,0.75,-,1000,,0.75,N/A,,All Cash,,"Centerview, Goldman",,,Yes
+Apr-24,Ono Pharmaceuticals,OPHLY,Deciphera Pharmaceuticals,"Ripretinib, Vimseltinib ","GIST, TGCT",Oncology,"Approved, Phase III",2.4,-,800,,3,N/A,,All Cash,,JPM,BofA,,Yes
+May-24,Novartis,NVS,Mariana Oncology,MC-339,SCLC,Oncology,Preclinical ,1,,1000,,1,N/A,,All Cash,,Centerview,,,Yes
+May-24,Johnson & Johnson,JNJ,Proteologix,PX128,"AD, Asthma",Autoimmune,Preclinical ,0.85,,3000,,0.283333333,N/A,,All Cash,,,,,No
+May-24,Biogen ,BIIB,Human Immunology Biosciences,felzartamab,"AMR, PMN, IgAN",Nephrology,Phase II,1.15,,1000,,1.15,N/A,,All Cash,,"Goldman, BofA",,,Yes
+May-24,Johnson & Johnson,JNJ,Yellow Jersey Therapeutics,NM26,AD,Autoimmune,Phase II,1.25,,2000,,0.625,N/A,,All Cash,,"Morgan Stanley, Centerveiw",,,Yes
+May-24,Asahi Kasei,AHKSY,Calliditas Therapeutics,Nefecon,IgAN,Nephrology,Phase II,1.1,,750,,1.466666667,N/A,,All Cash,,Lazard,,,Yes
+May-24,Merck,MRK,EyeBio,Restoret,DME,Ophthalmology,Phase IIB/III,1.3,,500,,2.6,N/A,,All Cash,,Centerview,Citi,,Yes
+Jul-24,Lilly,LLY,Morphic Therapeutics,MORF-057,"Ulcerative Colitis, Crohn's Disease",Inflammation,Phase IIB,3.2,,2500,,1.28,N/A,,All Cash,,Centerview,Citi,,Yes
+Aug-24,Recursion Pharmaceuticals,RXRX,Exscientia,GTAEXS617,Solid tumors,"Oncology, etc",Phase 1/2,,,,,,,,All Shares,,Centerview,Allen & Company,,Yes
+Aug-24,Otsuka Pharmaceutical,OTSKF,Jnana Therapeutics,JNT-517,PKU,Rare disease,Phase 1/2,0.8,,500,,1.6,N/A,,All Cash,,Centerview,,,Yes
+Aug-24,Merck,MRK,Curon' CD3 x CD19,CN201,"B cell malignancies, autoimmune","Oncology, Autoimmune",Phase 1/2,0.7,,2000,,0.35,N/A,,All Cash,,Centerview,,,No
