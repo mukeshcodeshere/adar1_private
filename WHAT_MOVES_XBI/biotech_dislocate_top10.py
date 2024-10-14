@@ -35,11 +35,13 @@ def get_equity_data(ticker):
     stock = yf.Ticker(ticker)
     return stock.history(period="1y")
 
+@st.cache_data
 def calculate_historical_volatility(equity_df, window=30):
     equity_df['returns'] = equity_df['Close'].pct_change()
     rolling_volatility = equity_df['returns'].rolling(window=window).std() * np.sqrt(252)
     return rolling_volatility.mean()
 
+@st.cache_data
 def identify_dislocations(options_df, equity_df, threshold=1.5):
     historical_volatility = calculate_historical_volatility(equity_df)
     options_df['impliedVolatility'] = pd.to_numeric(options_df['impliedVolatility'], errors='coerce')
@@ -48,9 +50,11 @@ def identify_dislocations(options_df, equity_df, threshold=1.5):
     dislocated = implied_volatility > historical_volatility * threshold
     return dislocated, implied_volatility, historical_volatility
 
+@st.cache_data
 def calculate_var(returns, confidence_level=0.95):
     return np.percentile(returns.dropna(), (1 - confidence_level) * 100)
 
+@st.cache_data
 def predict_future_prices(equity_df, days=30):
     equity_df['Returns'] = equity_df['Close'].pct_change()
     equity_df = equity_df.dropna(subset=['Returns'])
@@ -64,10 +68,12 @@ def predict_future_prices(equity_df, days=30):
     
     return predicted_prices
 
+@st.cache_data
 def calculate_sharpe_ratio(equity_returns, risk_free_rate=0.01):
     excess_returns = equity_returns - risk_free_rate
     return np.mean(excess_returns) / np.std(excess_returns)
 
+@st.cache_data
 def enhanced_trade_suggestions(ticker, options_df, equity_df, threshold):
     equity_returns = equity_df["Close"].pct_change().dropna()
     sharpe_ratio = calculate_sharpe_ratio(equity_returns)
@@ -83,6 +89,7 @@ def enhanced_trade_suggestions(ticker, options_df, equity_df, threshold):
 
     return suggestion
 
+@st.cache_data
 def plot_combined(ticker, options_df, equity_df):
     options_df = options_df.dropna(subset=['strike', 'impliedVolatility'])
     options_df['expiration'] = pd.to_datetime(options_df['expiration'])
@@ -130,6 +137,7 @@ def plot_combined(ticker, options_df, equity_df):
     plt.tight_layout()
     st.pyplot(fig)
 
+@st.cache_data
 def process_ticker(ticker):
     try:
         options_df = get_options_data(ticker)
@@ -171,7 +179,7 @@ threshold = st.number_input("Set the threshold for identifying dislocations:", m
 if st.button("Analyze All"):
     with st.spinner("Analyzing..."):
         dislocated_stocks = []
-        with concurrent.futures.ThreadPoolExecutor() as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
             results = list(executor.map(process_ticker, biotech_tickers))
             dislocated_stocks = [res for res in results if res is not None]
 
