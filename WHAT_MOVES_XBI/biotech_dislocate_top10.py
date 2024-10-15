@@ -16,6 +16,10 @@ warnings.filterwarnings('ignore')
 df_tickers = pd.read_csv("/mount/src/adar1_private/WHAT_MOVES_XBI/biotech_tickers.csv")
 biotech_tickers = sorted(df_tickers.Ticker.unique().tolist() + ['XBI', 'NBI'])
 
+# Initialize a session state for caching mechanism
+if 'refresh' not in st.session_state:
+    st.session_state.refresh = False
+
 @st.cache_data
 def get_options_data(ticker):
     stock = yf.Ticker(ticker)
@@ -176,7 +180,12 @@ It offers insights into potential trading opportunities based on volatility disc
 window_days = st.number_input("Select the window (in days) for historical volatility:", min_value=1, max_value=365, value=30)
 threshold = st.number_input("Set the threshold for identifying dislocations:", min_value=1.0, value=1.5, step=0.1)
 
-if st.button("Analyze All"):
+# Button to refresh the data
+if st.button("Refresh"):
+    st.session_state.refresh = True
+    st.cache_data.clear()  # Clear cache
+
+if st.button("Analyze All") or st.session_state.refresh:
     with st.spinner("Analyzing..."):
         dislocated_stocks = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
